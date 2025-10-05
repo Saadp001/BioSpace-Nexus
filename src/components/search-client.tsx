@@ -137,8 +137,8 @@ export default function SearchClient({ papers }: SearchClientProps) {
           <div className="absolute inset-0 bg-background/80" />
           <div className="relative z-10 w-full max-w-4xl px-4">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4">
-              <span className="text-primary">Space Biology </span>
-              <span className="text-accent">Knowledge Engine</span>
+              <span className="text-primary">BioSpace </span>
+              <span className="text-accent">Nexus</span>
             </h1>
             <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
               Explore decades of NASA bioscience research with AI-powered
