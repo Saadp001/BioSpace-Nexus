@@ -10,7 +10,7 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: 'Space Biology Knowledge Engine',
+  title: 'BioSpace Nexus',
   description: 'AI-powered insights into NASA bioscience research.',
 };
 
