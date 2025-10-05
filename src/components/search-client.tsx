@@ -6,7 +6,7 @@ import { Input } from '@/components/ui/input';
 import PaperCard from './paper-card';
 import { Skeleton } from '@/components/ui/skeleton';
 import { Rocket, Search, Sparkles } from 'lucide-react';
-import { PlaceHolderImages } from '@/lib/placeholder-images.ts';
+import { PlaceHolderImages } from '@/lib/placeholder-images';
 import Image from 'next/image';
 import { Button } from './ui/button';
 import {
