@@ -1,13 +1,13 @@
 {
   "placeholderImages": [
     {
-      "id": "dna-hero",
+      "id": "astronaut-hero",
       "description": "Abstract background with DNA strands and cosmic elements.",
       "imageUrl": "src/lib/astronaut.jpg",
       "imageHint": "abstract DNA"
     },
     {
-      "id": "astronaut-hero",
+      "id": "dna-hero",
       "description": "An astronaut with a galaxy reflected in the helmet visor.",
       "imageUrl": "src/lib/astronaut.jpg",
       "imageHint": "astronaut galaxy"
