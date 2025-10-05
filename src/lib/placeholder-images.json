@@ -3,13 +3,13 @@
     {
       "id": "dna-hero",
       "description": "Abstract background with DNA strands and cosmic elements.",
-      "imageUrl": "./astronaut.jpg",
+      "imageUrl": "src/lib/astronaut.jpg",
       "imageHint": "abstract DNA"
     },
     {
       "id": "astronaut-hero",
       "description": "An astronaut with a galaxy reflected in the helmet visor.",
-      "imageUrl": "./astronaut.jpg",
+      "imageUrl": "src/lib/astronaut.jpg",
       "imageHint": "astronaut galaxy"
     }
   ]
